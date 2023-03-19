@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fs-04-assignment-todo/static/css/main.f0e49aa3.css",
+    "main.js": "/fs-04-assignment-todo/static/js/main.b2c375a3.js",
+    "index.html": "/fs-04-assignment-todo/index.html",
+    "main.f0e49aa3.css.map": "/fs-04-assignment-todo/static/css/main.f0e49aa3.css.map",
+    "main.b2c375a3.js.map": "/fs-04-assignment-todo/static/js/main.b2c375a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0e49aa3.css",
+    "static/js/main.b2c375a3.js"
+  ]
+}
